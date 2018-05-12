@@ -1,0 +1,30 @@
+_repo: Peace-with-Mexico_32192
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gallatin, Albert
+    aliases:
+    - Gallatin, Abraham Albert Alphonse
+    - Gallatin, Abraham Alfonse Albert
+    birthdate: 1761
+    deathdate: 1849
+    gutenberg_agent_id: '35718'
+    url: http://www.gutenberg.org/2009/agents/35718
+    wikipedia: http://en.wikipedia.org/wiki/Albert_Gallatin
+description: ''
+gutenberg_issued: '2010-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32192'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Politics and government -- 1845-1849'
+- !lcc 'E300'
+title: Peace with Mexico
+url: http://www.gutenberg.org/ebooks/32192
